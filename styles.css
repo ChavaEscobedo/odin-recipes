@@ -1,0 +1,29 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.recipe {
+    font-weight: 800;
+    color: rgb(124, 46, 10);
+}
+
+h2, h1, .image, div p {
+    text-align: center;
+}
+
+ol li::marker {
+    font-weight: 800;
+}
+
+
+.Description {
+    background-color: rgba(243, 60, 60, 0.562);
+}
+
+.Steps {
+    background-color: rgb(60, 243, 60, 0.562);
+}
+
+body {
+    background-color: rgb(235, 234, 178);
+}
